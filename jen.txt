@@ -160,7 +160,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/kanthi-sree765/WebProject'
+                git 'https://github.com/lohithak28/WebProject.git'
             }
         }
 
